@@ -11,7 +11,7 @@
 
 </div>
 
-Taichi is able to identify Differential Spatial Expression Pattern (DSEP) across multi-slice dataset, and offers the downstream analysis based on obtained DSEP genes.
+River is able to identify Differential Spatial Expression Pattern (DSEP) across multi-slice dataset, and offers the downstream analysis based on obtained DSEP genes.
 </p>
 <p align="center">
   <img src="https://github.com/C0nc/River/blob/main/figure/pipeline.png" width="800px">
