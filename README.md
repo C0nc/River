@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/C0nc/TAICHI/blob/main/figure/logo.png" width="200px">
+<img src="https://github.com/C0nc/River/blob/main/figure/logo.png" width="200px">
 
 **A Python package for the Scalale and accurate identification condition-relevant niches from spatial omics data.**
 
@@ -14,7 +14,7 @@
 Taichi is able to automatically identify condition-relevant niches, and offers the downstream analysis based on obtained niches.
 </p>
 <p align="center">
-  <img src="https://github.com/C0nc/TAICHI/blob/main/fig/pipeline.png" width="800px">
+  <img src="https://github.com/C0nc/River/blob/main/figure/pipeline.png" width="800px">
 </p>
 
 ## Getting started
@@ -50,8 +50,8 @@ If you found a bug or you want to propose a new feature, please use the [issue t
 [issue-tracker]: https://github.com/C0nc/River/issues
 [link-docs]: https://cellcharter.readthedocs.io
 [link-api]: https://cellcharter.readthedocs.io/en/latest/api.html
-[link-tutorial_1]: https://github.com/C0nc/TAICHI/blob/main/figure_2.ipynb
-[link-tutorial_2]: https://github.com/C0nc/TAICHI/blob/main/figure_3.ipynb
-[link-tutorial_3]: https://github.com/C0nc/TAICHI/blob/main/figure_4.ipynb
-[link-tutorial_4]: https://github.com/C0nc/TAICHI/blob/main/figure_5.ipynb
-[link-tutorial_5]: https://github.com/C0nc/TAICHI/blob/main/figure_6.ipynb
+[link-tutorial_1]: https://github.com/C0nc/River/blob/main/figure_2.ipynb
+[link-tutorial_2]: https://github.com/C0nc/River/blob/main/figure_3.ipynb
+[link-tutorial_3]: https://github.com/C0nc/River/blob/main/figure_4.ipynb
+[link-tutorial_4]: https://github.com/C0nc/River/blob/main/figure_5.ipynb
+[link-tutorial_5]: https://github.com/C0nc/River/blob/main/figure_6.ipynb
