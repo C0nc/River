@@ -23,8 +23,9 @@ River is able to identify Differential Spatial Expression Pattern (DSEP) across 
 Please refer to the  
 - Stereo-seq 3D dataset [Tutorial][link-tutorial_2] (Can be downloaded by `pysodb` package) 
 - Stereo-seq development dataset [Tutorial][link-tutorial_3] (Can be downloaded by `pysodb` package)
-- MIBI TNBC disease dataset [Tutorial][link-tutorial_4]. (Can be downloaded by `pysodb` package)
-- CODEX lupus dataset [Tutorial][link-tutorial_5]. (Can be downloaded by `pysodb` package)
+- Slide-seq mouse diabetes disease dataset [Tutorial][link-tutorial_4]. (Can be downloaded by `pysodb` package)
+- MIBI TNBC disease dataset [Tutorial][link-tutorial_5]. (Can be downloaded by `pysodb` package)
+- CODEX lupus dataset [Tutorial][link-tutorial_6]. (Can be downloaded by `pysodb` package)
 
 ## Installation
 
@@ -42,6 +43,7 @@ pip install captum ipykernel
 ```
 
 Install the `pysodb` for efficient download processed Anndata in h5ad format (https://pysodb.readthedocs.io/en/latest/) 
+Install the `CellCharter` for multi-slice co-clustering in Slide-seq analysis (https://github.com/CSOgroup/cellcharter)
 ## Contribution
 
 If you found a bug or you want to propose a new feature, please use the [issue tracker][issue-tracker].
@@ -49,8 +51,9 @@ If you found a bug or you want to propose a new feature, please use the [issue t
 [issue-tracker]: https://github.com/C0nc/River/issues
 [link-docs]: https://cellcharter.readthedocs.io
 [link-api]: https://cellcharter.readthedocs.io/en/latest/api.html
-[link-tutorial_1]: https://github.com/C0nc/River/blob/main/figure_2.ipynb
-[link-tutorial_2]: https://github.com/C0nc/River/blob/main/figure_3.ipynb
-[link-tutorial_3]: https://github.com/C0nc/River/blob/main/figure_4.ipynb
-[link-tutorial_4]: https://github.com/C0nc/River/blob/main/figure_5.ipynb
-[link-tutorial_5]: https://github.com/C0nc/River/blob/main/figure_6.ipynb
+[link-tutorial_1]: https://github.com/C0nc/River/blob/main/figure2.ipynb
+[link-tutorial_2]: https://github.com/C0nc/River/blob/main/figure3.ipynb
+[link-tutorial_3]: https://github.com/C0nc/River/blob/main/figure4.ipynb
+[link-tutorial_4]: https://github.com/C0nc/River/blob/main/figure5.ipynb
+[link-tutorial_5]: https://github.com/C0nc/River/blob/main/figure6.ipynb
+[link-tutorial_6]: https://github.com/C0nc/River/blob/main/figure7.ipynb
