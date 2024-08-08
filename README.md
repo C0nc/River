@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <a href="https://doi.org/10.1101/2024.05.30.596656" target="_blank">Preprint</a>
+  <a href="https://www.biorxiv.org/content/10.1101/2024.08.04.606512v1" target="_blank">Preprint</a>
 </p>
 
 </div>
